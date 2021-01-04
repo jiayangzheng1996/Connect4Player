@@ -2,9 +2,9 @@
 
 **Developed by:**
 
-Jiayang Zheng: [jzheng13@u.rochester.edu](mailto: jzheng19@u.rochester.edu)
+Jiayang Zheng: [jzheng13@u.rochester.edu](jzheng19@u.rochester.edu)
 
-Shidi Yin: [syin4@u.rochester.edu](mailto: syin4@u.rochester.edu)
+Shidi Yin: [syin4@u.rochester.edu](syin4@u.rochester.edu)
 
 Artificial Intelligent agent that plays Connect 4 using Adversarial Search methods
 
